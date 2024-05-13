@@ -1,0 +1,12 @@
+git init
+
+git status
+
+git checkout -b mensagem - Realiza a criação de uma nova Branch
+
+
+Ordem:
+1- git add NomeDoArquivo.txt - Adiciona o arquivo no Staged
+2- git status - Verifica os arquivos que estão prontos para serem comitados 
+3- git commit -m "Nome do Commit" - Para comitar o arquivo
+4- 
